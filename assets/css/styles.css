@@ -1,0 +1,11 @@
+.hero-card {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 400px;
+}
+
+.hero-card .card-body {
+    padding: 0;
+}
