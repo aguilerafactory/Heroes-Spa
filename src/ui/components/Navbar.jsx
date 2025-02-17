@@ -20,7 +20,6 @@ export const Navbar = () => {
                     <NavLink className="nav-item nav-link"  to="/marvel">Marvel</NavLink>
                     <NavLink className="nav-item nav-link" to="/dc">DC</NavLink>
                     <NavLink className="nav-item nav-link" to="/search">Busqueda</NavLink>
-                    <NavLink className="nav-item nav-link" to="/hero">H&eacute;roe</NavLink>
                 </div>
             </div>
 
